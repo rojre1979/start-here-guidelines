@@ -10,6 +10,7 @@
 
 - [Priyank Panchal](https://github.com/Priyank911)
 
+- [Robert Judal Regalado](https://github.com/rojre1979)
 
 - [Harun Adil](https://github.com/HarunAdil)
 
